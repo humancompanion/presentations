@@ -1,0 +1,21 @@
+.presenting {
+  text-align: left;
+}
+
+.reveal ol {
+  margin-bottom: 8rem;
+}
+
+.reveal h4.warning {
+  padding: 2rem 0;
+  color: #212121;
+}
+
+.warning .fa {
+  padding-left: 1rem;
+}
+
+.reveal blockquote {
+  margin-left: 0;
+  margin-right: 0;
+}
